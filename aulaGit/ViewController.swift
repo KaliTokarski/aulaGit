@@ -15,5 +15,9 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
         // first commit
         print("first try")
+        
+        print("how about now")
+        
+        print("hey yooo")
     }
 }
