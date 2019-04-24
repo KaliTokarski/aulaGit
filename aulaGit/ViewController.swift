@@ -18,6 +18,5 @@ class ViewController: UIViewController {
         
         print("how about now")
         
-        print("hey yooo")
     }
 }
